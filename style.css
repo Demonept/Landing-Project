@@ -11,7 +11,7 @@ h1, h2,h3,h4,h5,h6{
 /*Container======================*/
 .container{
 	width:100%;
-	max-width:1170px;
+	max-width:1200px;
 	margin:0 auto;
 }
 /* Nav================*/
@@ -116,7 +116,7 @@ h1, h2,h3,h4,h5,h6{
 	margin: 90px 0;		
 }
 .future__item{
-	width: 33.33%;
+	width: 30%;
 	text-align:center;
 	padding: 0 20px;
 	margin: 25px 0;
