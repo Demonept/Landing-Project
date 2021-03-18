@@ -169,6 +169,7 @@ h1, h2,h3,h4,h5,h6{
 	background-color: rgba(264,77,74,.8);
 	opacity:0;
 	transition: opacity 1s linear;
+
 }
 
 
@@ -183,4 +184,61 @@ h1, h2,h3,h4,h5,h6{
 .work__text{
 	font-size:13px;
 	color:#fff;
+}
+
+
+
+.team{
+	margin: 100px 0 70px;
+}
+
+.team__inner{
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 -15px;
+}
+
+.team__item{
+	width:17%;
+	padding:0 15px;
+	margin-bottom: 50px;
+}
+
+.team__photo{
+	display:block;
+	max-width:100%;
+	max-height: 250px;
+	margin-bottom:10px;
+}
+
+.team__name{
+	font-size:22px;
+	color:black;
+	margin-bottom:8px;
+	
+}
+
+.team__prof{
+	color:red;
+	font-size:15px;
+	text-transform: uppercase;
+}
+
+.team__text{
+	font-size:13px;
+	color: black;
+	line-height:1.5;
+}
+
+
+/*==========Social==========8*/
+
+.social{
+	display:flex;
+}
+
+.social__link{
+	width:40px;
+	height:40px;
+	border: 1px solid black;
 }
