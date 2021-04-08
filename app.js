@@ -21,7 +21,6 @@ $(function() {
 		}
 	});
 	
-	
 	/* Smooth scroll */
 	
 	$("[data-scroll]").on("click", function(event) {
@@ -48,8 +47,6 @@ $(function() {
 		nav.toggleClass("show");
 		
 		});
-	
-	
 	
 	let slider = $("#reviewsSlider");
 	
