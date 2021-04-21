@@ -149,11 +149,11 @@ h1, h2,h3,h4,h5,h6{
 	text-align: center;
 }
 .btn--red{
-	background-color:red;
+	background-color: #7fc435;
 	
 }
 .btn--red:hover{
-	background-color: #fff;
+	background-color: #2e7c38;
 }
 
 .btn--long{
@@ -335,14 +335,13 @@ h1, h2,h3,h4,h5,h6{
 /*=======reviews======*/
 
 .reviews{
-	background-color:red;
+	background-color: #48295f;
 	overflow: hidden;
 	display:flex;
 }
 
 .reviews__item{
 	display: flex;
-	flex-wrap: wrp;
 	overflow: hidden;
 }
 
